@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "aa431fb2-3423-4d98-928f-df04ac94bcf5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "staxChicken_01": {
+      "ver": "1.0.3",
+      "uuid": "050d0c9b-ae71-40c9-83be-f2b5d8722854",
+      "rawTextureUuid": "aa431fb2-3423-4d98-928f-df04ac94bcf5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 32,
+      "height": 32,
+      "rawWidth": 32,
+      "rawHeight": 32,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

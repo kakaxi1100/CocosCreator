@@ -1,0 +1,3 @@
+module.exports = {
+	"namingSpace" : "staxNS"
+};

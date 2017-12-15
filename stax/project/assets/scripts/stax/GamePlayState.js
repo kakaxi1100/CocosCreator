@@ -1,0 +1,5 @@
+class GamePlayState{
+    constructor(){
+        
+    }
+}

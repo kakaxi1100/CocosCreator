@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "eefed300-8ad1-429f-814c-aecfdc6d77b7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "staxDog_01": {
+      "ver": "1.0.3",
+      "uuid": "09c581c8-51f0-4ff8-adb6-da417ae52e49",
+      "rawTextureUuid": "eefed300-8ad1-429f-814c-aecfdc6d77b7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 32,
+      "height": 32,
+      "rawWidth": 32,
+      "rawHeight": 32,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
